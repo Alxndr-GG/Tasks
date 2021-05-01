@@ -5,8 +5,8 @@
             file_name="file.dll"
     />
     <file
-            source_path="/var/log"
-            destination_path="/etc"
-            file_name="server.log"
+            source_path="F:\hash"
+            destination_path="F:\hash\list"
+            file_name="hash.txt"
     />
 </config>

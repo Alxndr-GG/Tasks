@@ -1,4 +1,4 @@
-﻿#include "tinyxml.h"
+﻿#include "tiny\tinyxml.h"
 #include <iostream>
 #include <fstream>
 #include <cstring>
@@ -34,12 +34,8 @@ int main()
         std::cout   << "Source path: " << source_p << "\n" 
                     << "Destination path: " << dest_p << "\n" << std::endl;
 
-        if (*(source_p.end() - 1) != '\\')
-            source_p.insert(source_p.end(), '\\');
-        source_p += filename;
-        if (*(dest_p.end() - 1) != '\\')
-            dest_p.insert(dest_p.end(), '\\');
-        dest_p += filename;
+        source_p = source_p + "\\" + filename;
+        dest_p = dest_p + "\\" + filename;
         
         //----------------------------------------------------------------
 
