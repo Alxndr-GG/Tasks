@@ -1,0 +1,3 @@
+﻿  XML_reader.cpp
+C:\Users\Hard_Reset\Desktop\Test\XML_reader\XML_reader\XML_reader.cpp(65,30): warning C4244: =: преобразование "std::streamsize" в "size_t", возможна потеря данных
+  XML_reader.vcxproj -> C:\Users\Hard_Reset\Desktop\Test\XML_reader\Debug\XML_reader.exe

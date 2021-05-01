@@ -1,0 +1,11 @@
+﻿  hl_md5.cpp
+  hl_md5wrapper.cpp
+  hl_sha1.cpp
+  hl_sha1wrapper.cpp
+  hl_sha256.cpp
+  hl_sha256wrapper.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 314 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  hash_check.vcxproj -> C:\Users\Hard_Reset\Desktop\Test\hash_check\Release\hash_check.exe

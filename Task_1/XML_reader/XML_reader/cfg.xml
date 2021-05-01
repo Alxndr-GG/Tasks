@@ -1,0 +1,12 @@
+<config>
+    <file
+            source_path="C:\"
+            destination_path="C:\Games"
+            file_name="file.dll"
+    />
+    <file
+            source_path="/var/log"
+            destination_path="/etc"
+            file_name="server.log"
+    />
+</config>

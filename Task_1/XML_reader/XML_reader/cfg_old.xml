@@ -1,0 +1,13 @@
+<config>
+    <file
+            source_path="C:\Users\Hard_Reset\Desktop\Projects\Noob\1_test"
+            destination_path="C:\Users\Hard_Reset\Desktop\Projects\Noob\1_test\dest"
+            file_name="file.dll"
+    />
+	
+	<file
+            source_path="C:\Users\Hard_Reset\Desktop\Projects\Noob\1_test"
+            destination_path="C:\Users\Hard_Reset\Desktop\Projects\Noob\1_test\dest"
+            file_name="file.dll"
+    />
+</config>
